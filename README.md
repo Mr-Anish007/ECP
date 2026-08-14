@@ -65,6 +65,7 @@ while(1);
 ### (ii) Serial Port to Transfer a Message
 
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e1725c29-f5c9-4268-be33-c468bc64c59d" />
 
 
 
