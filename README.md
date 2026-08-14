@@ -8,13 +8,13 @@ keil.
 
 ## APPARATUS REQUIRED
 
-Keil.
+1.Keil.
 
-Personal Computer
+2.Personal Computer
 
-Keil μVision Software
+3.Keil μVision Software
 
-Serial Transfer of Single Byte / Character using 8051 (Keil)
+4.Serial Transfer of Single Byte / Character using 8051 (Keil)
 
 
 ## PROGRAM
