@@ -57,6 +57,7 @@ while(1);
 ### (i) Serial Port Transfer a Single Character
 
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/8f189552-1cb9-4124-827c-e09d07ff2784" />
 
 
 
